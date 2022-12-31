@@ -1,0 +1,5 @@
+C:\Users\kyubi\Desktop\rust\gamma_stage\gamma_stage\target\debug\build\rand_chacha-ac538b13e150f1c7\build_script_build-ac538b13e150f1c7.exe: C:\Users\kyubi\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_chacha-0.1.1\build.rs
+
+C:\Users\kyubi\Desktop\rust\gamma_stage\gamma_stage\target\debug\build\rand_chacha-ac538b13e150f1c7\build_script_build-ac538b13e150f1c7.d: C:\Users\kyubi\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_chacha-0.1.1\build.rs
+
+C:\Users\kyubi\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_chacha-0.1.1\build.rs:
